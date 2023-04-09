@@ -1,4 +1,3 @@
-<align="center">Hi 👋, I'm Mateusz Gamrat</h1>
 <h3 align="center">I am a self-taught future front-end developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuszgamrat&label=Profile%20views&color=0e75b6&style=flat" alt="mateuszgamrat" /> </p>
