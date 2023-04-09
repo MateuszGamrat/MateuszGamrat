@@ -1,7 +1,5 @@
 <h3 align="center">I am a self-taught future front-end developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuszgamrat&label=Profile%20views&color=0e75b6&style=flat" alt="mateuszgamrat" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -14,3 +12,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateuszgamrat&show_icons=true&locale=en" alt="mateuszgamrat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateuszgamrat&" alt="mateuszgamrat" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuszgamrat&label=Profile%20views&color=0e75b6&style=flat" alt="mateuszgamrat" /> </p>
