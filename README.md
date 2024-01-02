@@ -18,3 +18,46 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuszgamrat&label=Profile%20views&color=0e75b6&style=flat" alt="mateuszgamrat" /> </p>
+
+
+# Witaj na moim profilu GitHub! 👋
+
+## O mnie
+Jestem [Twoje Imię], pasjonat programowania i technologii. Specjalizuję się w [Twoje Technologie]. Moim celem jest [Twój Cel lub Misja].
+
+## Projekty
+
+### [Nazwa Projektu 1](link_do_projektu_1)
+Krótki opis projektu 1.
+
+![Język](https://img.shields.io/badge/language-JavaScript-yellow)
+![Licencja](https://img.shields.io/badge/license-MIT-blue)
+
+### [Nazwa Projektu 2](link_do_projektu_2)
+Krótki opis projektu 2.
+
+![Język](https://img.shields.io/badge/language-Python-blue)
+![Licencja](https://img.shields.io/badge/license-Apache%202.0-green)
+
+### [Nazwa Projektu 3](link_do_projektu_3)
+Krótki opis projektu 3.
+
+![Język](https://img.shields.io/badge/language-HTML-orange)
+![Licencja](https://img.shields.io/badge/license-GPL%203.0-red)
+
+## Aktywność
+
+- 💬 Ostatnio komentowałem w projekcie [Nazwa Projektu](link_do_projektu).
+- 🌱 Obecnie uczę się [Nowa Technologia].
+
+## Kontakt
+
+- 📧 E-mail: twój@email.com
+- 💼 LinkedIn: [Twój LinkedIn](link_do_profilu_linkedin)
+
+## Społeczność
+
+Dołącz do mojej społeczności i śledź najnowsze aktualizacje:
+
+[![Twitter](https://img.shields.io/twitter/follow/twoje_twitter?style=social)](link_do_profilu_twitter)
+[![GitHub](https://img.shields.io/github/followers/twoje_github?style=social)](link_do_profilu_github)
