@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ----------------------------------------------
 
-I am a self-taught future front-end developer.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=10B981&background=FFFFFF00&multiline=true&random=false&width=700&height=125&lines=I'am+a+self-taught+future+front-end+developer.;I'am+lerning+JavaScript+right+now.;I'am+stuck.;I+will+come+back+stronger.)](https://git.io/typing-svg)
 
 ----------------------------------------------
 
