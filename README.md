@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ---
 
-I am a self-taught future front-end developer.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=10B981&background=FFFFFF00&multiline=true&random=false&width=700&height=125&lines=I'am+a+self-taught+future+front-end+developer.;I'am+lerning+JavaScript+right+now.;I'am+stuck.;I+will+come+back+stronger.)](https://git.io/typing-svg)
 
 ---
 
@@ -17,6 +17,7 @@ I am a self-taught future front-end developer.
 
 <p align="left">
 </p>
+<<<<<<< HEAD
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -28,6 +29,12 @@ I am a self-taught future front-end developer.
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 
 ---
+
+=======
+
+---
+
+> > > > > > > a916b113e871f453134f97805d4c67669030ed24
 
 ### Socials:
 
